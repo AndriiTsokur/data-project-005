@@ -14,4 +14,4 @@ The main goal of the project is to practice explanatory data visualization and s
 - Matplotlib
 - Jupyter Notebook
 
-The step-by-step milestones and final result are shown [here](https://nbviewer.org/github/AndriiTsokur/data-project-004/blob/main/finding_heavy_traffic_indicators_on_i94.ipynb)
+The step-by-step milestones and final result are shown [here](https://nbviewer.org/github/AndriiTsokur/data-project-005/blob/main/storytelling_data_visualization_on_exchange_rates.ipynb)
